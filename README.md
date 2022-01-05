@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Larry
-I’m a tech enthusiast and IT Professional, currenlty working at an exciting company in the AI\Datascience SaaS space: 
+I’m a tech enthusiast and IT Professional, currently working at an exciting company in the AI\Datascience SaaS space: 
 
 [![Website](https://img.shields.io/badge/BOSS-AI-green?style=flat-square)](https://askboss.ai/)
 
