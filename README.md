@@ -6,10 +6,7 @@ I’m a tech enthusiast and IT Professional, currently working at an exciting co
 - 🔭 I’m currently working on - A container-ization, cloud agnostic, first initiative...
 - 🌱 I’m currently learning - Helm
 - 🥅 2022 Goal - CKA certification
-- ⚡ Fun fact - Singer, Keyboardist, Guitarist for a Pink Floyd Tribute Act.  
 
-[![Website](https://img.shields.io/badge/Brain-Damage-pink?style=flat-square)](https://www.braindamageband.com/)
-## 🛠️ Technologies and Tools
 ### DevOps & Cloud Technologies
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
