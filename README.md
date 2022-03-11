@@ -10,6 +10,7 @@ I’m a tech enthusiast and IT Professional, currently working at an exciting co
 ### DevOps & Cloud Technologies
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img alt="GitKraken" src="https://img.shields.io/badge/-GitKraken-000000??style=flat&logo=gitkraken&logoColor=green" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img alt="Powershell" src="https://img.shields.io/badge/-Powershell-5391FE?style=flat&logo=PowerShell&logoColor=white" />
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/-MicrosoftAzure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
