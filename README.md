@@ -74,5 +74,5 @@ I’m a tech enthusiast and IT Professional, currently working at an exciting co
 </p>
 
 ---
-![Larry's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarryBetson&show_icons=true&theme=dracula)(https://google.com)
+![Larry's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarryBetson&show_icons=true&theme=dracula)
 
