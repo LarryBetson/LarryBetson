@@ -5,7 +5,7 @@ I’m a tech enthusiast and IT Professional, currently working at an exciting co
 
 - 🔭 I’m currently working on - A container-ization, cloud agnostic, first initiative...
 - 🌱 I’m currently learning - Helm
-- 🥅 2023 Goal - CKA certification
+- 🥅 2024 Goal - CKA certification
 
 ### DevOps & Cloud Technologies
 <p>
