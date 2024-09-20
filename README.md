@@ -3,9 +3,9 @@ I’m a tech enthusiast and IT Professional, currently working at an exciting co
 
 [![Website](https://img.shields.io/badge/CAREFORTH-purple?style=flat-square)](https://www.careforth.com/)
 
-- 🔭 I’m currently working on - A container-ization, cloud agnostic, first initiative...
+- 🔭 I’m currently working on - An EKS Kubernetes migration
 - 🌱 I’m currently learning - Helm
-- 🥅 2024 Goal - CKA certification
+- 🥅 2025 Goal - CKA certification
 
 ### DevOps & Cloud Technologies
 <p>
