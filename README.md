@@ -11,7 +11,7 @@ I’m a tech enthusiast and IT Professional, currently working at an exciting co
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img alt="GitKraken" src="https://img.shields.io/badge/-GitKraken-000000??style=flat&logo=gitkraken&logoColor=green" />
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" />
   <img alt="Powershell" src="https://img.shields.io/badge/-Powershell-5391FE?style=flat&logo=PowerShell&logoColor=white" />
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/-MicrosoftAzure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/-GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
@@ -61,7 +61,7 @@ I’m a tech enthusiast and IT Professional, currently working at an exciting co
 <p>
   <img alt="Icinga" src="https://img.shields.io/badge/-Icinga-06062C?style=flat&logo=icinga&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
-   <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-06062C?style=flat&logo=icinga&logoColor=white" />
+  <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-06062C?style=flat&logo=datadog&logoColor=white" />
   <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-362D59?style=flat&logo=sentry&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
   <img alt="Open Telemetry" src="https://img.shields.io/badge/-OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white" />
@@ -72,6 +72,13 @@ I’m a tech enthusiast and IT Professional, currently working at an exciting co
   <img alt="Tenable IO" src="https://img.shields.io/badge/-tenable.io-000000?style=flat&logo=tenable.io&logoColor=white" />
   <img alt="Pager Duty" src="https://img.shields.io/badge/-PagerDuty-06AC38?style=flat&logo=pagerduty&logoColor=white" />
   <img alt="Ops Genie" src="https://img.shields.io/badge/-OpsGenie-172B4D?style=flat&logo=opsgenie&logoColor=white" />
+</p>
+
+### Artificial Intelligence
+<p>
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" />
+  <img alt="Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" />
 </p>
 
 ---
