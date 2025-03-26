@@ -61,6 +61,7 @@ I’m a tech enthusiast and IT Professional, currently working at an exciting co
 <p>
   <img alt="Icinga" src="https://img.shields.io/badge/-Icinga-06062C?style=flat&logo=icinga&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+   <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-06062C?style=flat&logo=icinga&logoColor=white" />
   <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-362D59?style=flat&logo=sentry&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
   <img alt="Open Telemetry" src="https://img.shields.io/badge/-OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white" />
