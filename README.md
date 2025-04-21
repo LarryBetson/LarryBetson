@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Larry
 I’m a tech enthusiast and IT Professional, currently working at an exciting company in the Healthcare space. 
 
-[![Website](https://img.shields.io/badge/CAREFORTH-purple?style=flat-square)](https://www.careforth.com/)
+[![Website](https://img.shields.io/badge/PRIME-THERAPEAUTICS-blue?style=flat-square)](https://www.primetherapeutics.com/)
 
 - 🔭 I’m currently working on - An EKS Kubernetes migration
 - 🌱 I’m currently learning - Helm
