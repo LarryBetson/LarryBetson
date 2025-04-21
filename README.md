@@ -3,9 +3,9 @@ I’m a tech enthusiast and IT Professional, currently working at an exciting co
 
 [![Website](https://img.shields.io/badge/PRIME-THERAPEAUTICS-blue?style=flat-square)](https://www.primetherapeutics.com/)
 
-- 🔭 I’m currently working on - An EKS Kubernetes migration
-- 🌱 I’m currently learning - Helm
-- 🥅 2025 Goal - CKA certification
+- 🔭 I’m currently working on - An AI Infrastructure project in AWS/GCP
+- 🌱 I’m currently learning - AI
+- 🥅 2025 Goal - AWS-AI certification
 
 ### DevOps & Cloud Technologies
 <p>
