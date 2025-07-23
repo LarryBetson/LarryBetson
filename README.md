@@ -1,8 +1,6 @@
 ## 👋 Hi there, I'm Larry
 I’m a tech enthusiast and IT Professional, currently working at an exciting company in the Healthcare space. 
 
-[![Website](https://img.shields.io/badge/PRIME-THERAPEAUTICS-blue?style=flat-square)](https://www.primetherapeutics.com/)
-
 - 🔭 I’m currently working on - An AI Infrastructure project in AWS/GCP
 - 🌱 I’m currently learning - AI
 - 🥅 2025 Goal - AWS-AI certification
