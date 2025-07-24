@@ -77,6 +77,7 @@ I’m a tech enthusiast and IT Professional, currently working at an exciting co
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" />
   <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" />
   <img alt="Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" />
+  <img alt="Bedrock" src="https://img.shields.io/badge/Bedrock-74aa9c?logo=bedrock&logoColor=white" />
 </p>
 
 ---
