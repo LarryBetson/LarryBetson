@@ -15,7 +15,7 @@ I’m a tech enthusiast and IT Professional, currently working at an exciting co
   <img alt="Google Cloud" src="https://img.shields.io/badge/-GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
   <img alt="Linode" src="https://img.shields.io/badge/-Linode-00A95C?style=flat&logo=linode&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-FCA121?style=flat&logo=github&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" />
   <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-FCA121?style=flat&logo=gitlab&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
