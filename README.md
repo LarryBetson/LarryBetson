@@ -78,7 +78,7 @@ I’m a tech enthusiast and IT Professional, currently working at an exciting co
   <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" />
   <img alt="Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" />
   <img alt="AWS Bedrock" src="https://img.shields.io/badge/-AWS%20Bedrock-22A0F1?style=flat&logo=aws&logoColor=white" />
-  <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white" />
 
 ---
 ![Larry's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarryBetson&show_icons=true&theme=dracula)
