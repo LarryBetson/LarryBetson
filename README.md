@@ -77,8 +77,7 @@ I’m a tech enthusiast and IT Professional, currently working at an exciting co
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" />
   <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" />
   <img alt="Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" />
-  <img alt="AWS Bedrock" src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMTIgMTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTYuMDA0LjAwM2EyLjU3IDIuNTcgMCAwIDAtMS44MTQuNzA4bC0uMDA3LjAwN0w0LjE0LjcxYTIuNTcgMi41NyAwIDAgMC0xLjA0NSAxLjQwOCAyLjU3IDIuNTcgMCAwIDAgLjAxMiAxLjc0NWwtLjAwMy4wMDctLjAwOC4wMDdhMi41NyAyLjU3IDAgMCAwIDEuNzA3IDEuMDEybC4wMDYuMDA3IDEuMDgxLjY1NmEuMTU0LjE1NCAwIDAgMS0uMDYzLjI3NnYyLjU4OGExLjUzMyAxLjUzMyAwIDAgMCAuNDk2IDEuMTA1bDEuODUxIDEuODVhMS41MzMgMS41MzMgMCAwIDAgMi4xNjQgMEw5LjQxNSAxMC4zYTEuNTMzIDEuNTMzIDAgMCAwIC40OTYtMS4xMDVWMjMuNzRhLjE1NC4xNTQgMCAwIDEgLS4wNjMtLjI3N2wtMS4wODItLjY1Ni0uMDA2LS4wMDdhMi41NyAyLjU3IDAgMCAwIDEuNzA3LTEuMDEybC4wMDctLjAwNi4wMDctLjAwN2EyLjU3IDIuNTcgMCAwIDAgLjAxMi0xLjc0NSAyLjU3IDIuNTcgMCAwIDAtMS4wNDYtMS40MDhsLS4wMDYtLjAwNi0uMDc4LS4xNzFhMi41NyAyLjU3IDAgMCAwLTIuNTAzLS43NjZ6Ii8+PC9zdmc+" />
-</p>
+  <img alt="AWS Bedrock" src="https://img.shields.io/badge/-AWS%20Bedrock-22A0F1?style=flat&logo=aws&logoColor=white" />
 
 ---
 ![Larry's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarryBetson&show_icons=true&theme=dracula)
